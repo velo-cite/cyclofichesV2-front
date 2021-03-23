@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.scss';
 import TheHeader from './TheHeader';
-import TheStepper from './TheStepper';
+import TheStepper from './stepper/TheStepper';
 
 function App() {
   return (
